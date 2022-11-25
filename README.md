@@ -11,7 +11,7 @@ https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverables/Deliv
 A Jupyter notebooks file where the data is collected, imported as a DataFrame and displayed in a table using the head and tail function.
 
 ## Deliverable 2
-https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverable%202-Prepare%20Data.ipynb
+https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverables/Deliverable%202-Prepare%20Data.ipynb
 
 A Jupyter notebooks file of the data preparation where missing and duplicated data is removed and data is displayed. The suffix "th" from the "grade" column is removed and data in converted from a string to an integer.
 
