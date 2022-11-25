@@ -6,7 +6,7 @@ also exists as a combination of all 5 Deliverables in one Jupyter Notebook file 
 
 ## Deliverable 1
 
-https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverable%201-Collect%20Data.ipynb
+https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverables/Deliverable%201-Collect%20Data.ipynb
 
 A Jupyter notebooks file where the data is collected, imported as a DataFrame and displayed in a table using the head and tail function.
 
