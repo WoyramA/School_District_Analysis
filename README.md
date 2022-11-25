@@ -16,7 +16,7 @@ https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverables/Deliv
 A Jupyter notebooks file of the data preparation where missing and duplicated data is removed and data is displayed. The suffix "th" from the "grade" column is removed and data in converted from a string to an integer.
 
 ## Deliverable 3
-https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverable%203-%20Summarize%20Data.ipynb
+https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverables/Deliverable%203-%20Summarize%20Data.ipynb
 
 A Jupyter notebooks file shows the data summarization where the DataFrame is summarized with the mean math scores and minimum reading scores determined and displayed.
 
