@@ -21,7 +21,7 @@ https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverables/Deliv
 A Jupyter notebooks file shows the data summarization where the DataFrame is summarized with the mean math scores and minimum reading scores determined and displayed.
 
 ## Deliverable 4
-https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverable%204-%20Drill%20down%20the%20Data.ipynb
+https://github.com/WoyramA/School_District_Analysis/blob/main/Deliverables/Deliverable%204-%20Drill%20down%20the%20Data.ipynb
 
 A Jupyter Notebooks file looks into drilling down the data using loc and iloc to narrow down data to specific rows and columns to summarize the 9th grade data, show mean reading scores for 10th grade, and overall reading scores for the 11th and 12th Grades.
 
